@@ -208,6 +208,7 @@ dotnet add package Microsoft.Extensions.Configuration.Json
 Projet académique développé par **Fréjus Adedemi** et **Patrick** dans le cadre d'un projet intégrateur BDD + C#.
 
 Développeur 1 : [FrejusAdedemi](https://github.com/FrejusAdedemi)
+
 Développeur 2 : [PatrickRasheed](https://github.com/PatrickRasheed)
 
 
