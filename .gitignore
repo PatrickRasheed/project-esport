@@ -1,0 +1,16 @@
+# Fichiers de configuration sensibles
+appsettings.json
+
+# Dossiers de compilation
+bin/
+obj/
+
+# Fichiers IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Fichiers système
+.DS_Store
+Thumbs.db
