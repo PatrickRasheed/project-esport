@@ -3,7 +3,7 @@
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)](https://www.postgresql.org/)
 [![C#](https://img.shields.io/badge/C%23-12.0-purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 📋 Description
 
@@ -205,7 +205,7 @@ dotnet add package Microsoft.Extensions.Configuration.Json
 
 ## 👥 Contribution
 
-Projet académique développé par **Fréjus Adedemi** et **Patrick** dans le cadre d'un projet intégrateur BDD + C#.
+Projet académique développé par **Fréjus Adedemi** et **Patrick Bediang** dans le cadre d'un projet intégrateur BDD + C#.
 
 Développeur 1 : [FrejusAdedemi](https://github.com/FrejusAdedemi)
 
