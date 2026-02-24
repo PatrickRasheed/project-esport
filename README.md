@@ -3,7 +3,7 @@
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)](https://www.postgresql.org/)
 [![C#](https://img.shields.io/badge/C%23-12.0-purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 
 ## 📋 Description
 
@@ -190,14 +190,14 @@ dotnet add package Microsoft.Extensions.Configuration.Json
 - [x] Configuration sécurisée
 
 ### Phase 2 - En cours 🔄
-- [ ] Interface console interactive complète
-- [ ] CRUD complet pour toutes les entités
-- [ ] Gestion des matchs et des phases
-- [ ] Calcul automatique des classements
+- [x] Interface console interactive complète
+- [x] CRUD complet pour toutes les entités
+- [x] Gestion des matchs et des phases
+- [x] Calcul automatique des classements
 
 ### Phase 3 - À venir 📅
-- [ ] Tests unitaires et d'intégration
-- [ ] Requêtes SQL avancées et statistiques
+- [x] Tests unitaires et d'intégration
+- [x] Requêtes SQL avancées et statistiques
 - [ ] Export de données (CSV, PDF)
 - [ ] Interface graphique (WPF/Avalonia)
 
@@ -223,4 +223,4 @@ Développeur 2 : [PatrickRasheed](https://github.com/PatrickRasheed)
 
 ---
 
-**Dernière mise à jour** : Janvier 2025
+**Dernière mise à jour** : Mars 2026

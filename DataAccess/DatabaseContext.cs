@@ -31,13 +31,11 @@ namespace TournamentManager.DataAccess
                 using (var conn = GetConnection())
                 {
                     conn.Open();
-                    Console.WriteLine("Connexion réussie à la base de données !");
                     return true;
                 }
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine($"Erreur de connexion : {ex.Message}");
                 return false;
             }
         }

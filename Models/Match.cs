@@ -2,12 +2,12 @@ namespace TournamentManager.Models
 {
     public class Match
     {
-        public int Id { get; set; }
+        public int IdMatch { get; set; }  
         public int IdTournoi { get; set; }
-        public DateTime DateHeure { get; set; }
-        public string Phase { get; set; } // "Poules", "Quarts", "Demi", "Finale"
-        public string Format { get; set; } // "BO1", "BO3", "BO5"
-        public string Statut { get; set; } // "Planifié", "En cours", "Terminé"
-        public string Map { get; set; }
+        public DateTime DateMatch { get; set; }  
+        public string PhaseTournoi { get; set; }  // Préciser la phase du tournoi (ex: "Quart de finale", "Demi-finale", "Finale")
+        public string FormatMatch { get; set; }  // B01, B02, B03, B05, B07
+        public string Statut { get; set; }
+        
     }
 }
